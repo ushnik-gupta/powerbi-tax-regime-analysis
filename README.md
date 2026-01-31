@@ -13,18 +13,22 @@ DAX (Data Analysis Expressions)
 
 Microsoft Excel
 
-📘 Data Dictionary
-Column Name	Data Type	Description	Example Values
-Taxpayer_ID	Integer	Unique identifier for each taxpayer	101, 102
-Annual_Income	Numeric	Total annual income of the taxpayer	850000
-Tax_Regime	Text	Tax regime selected by taxpayer	Old, New
-Tax_Payable	Numeric	Final tax payable after calculations	92500
-Tax_Savings	Numeric	Tax difference between old and new regimes	18600
-Income_Slab	Text	Income category based on annual income	2.5L–5L
-Profession	Text	Occupation of the taxpayer	Manager
-Gender	Text	Gender of the taxpayer	Male, Female
-City	Text	City of residence	Kolkata
-Filed_Return	Boolean	Tax return filing status	TRUE / FALSE
+
+### 📘 Data Dictionary
+
+| Column Name | Data Type | Description | Example Values |
+|-------------|-----------|-------------|----------------|
+| Taxpayer_ID | Integer | Unique identifier for each taxpayer | 101, 102 |
+| Annual_Income | Numeric | Total annual income of the taxpayer | 850000 |
+| Tax_Regime | Text | Tax regime selected by taxpayer | Old, New |
+| Tax_Payable | Numeric | Final tax payable after calculations | 92500 |
+| Tax_Savings | Numeric | Tax difference between old and new regimes | 18600 |
+| Income_Slab | Text | Income category based on annual income | 2.5L–5L |
+| Profession | Text | Occupation of the taxpayer | Manager |
+| Gender | Text | Gender of the taxpayer | Male, Female |
+| City | Text | City of residence | Kolkata |
+| Filed_Return | Boolean | Tax return filing status | TRUE / FALSE |
+
 📈 Key Features
 
 KPI cards for Total Tax Payable, Average Annual Income, Total Taxpayers, and Filing Compliance %
