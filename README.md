@@ -1,7 +1,7 @@
 📊 Taxpayer Analytics & Tax Regime Comparison Dashboard
 📌 Project Overview
 
-This project presents an interactive Power BI dashboard designed to analyze taxpayer data and compare tax outcomes under the Old and New Tax Regimes. The dashboard focuses on income distribution, tax payable, filing compliance, and demographic insights to support data-driven decision-making.
+This project presents an interactive Power BI dashboard designed to analyze taxpayer data and compare tax outcomes under the Old and New Tax Regimes. The dashboard focuses on income distribution, tax payable, filing compliance, and demographic insights to support data-driven decision-making.Dataset consists of anonymized taxpayer records with income, tax regime, profession, city, and demographic attributes.
 
 🛠 Tools & Technologies
 
@@ -48,12 +48,13 @@ Highlights filing compliance patterns
 Enables quick comparison of tax burden across regimes
 
 Supports policy and financial analysis use cases
+Applicable to tax analytics, compliance reporting, and policy impact analysis use cases relevant to consulting and financial advisory teams.
 
 📂 Files Included
 
 Power BI Dashboard (.pbix)
 
-Source dataset (.xlsx)
+Source dataset (.csv)
 
 Project documentation (README.md)
 
